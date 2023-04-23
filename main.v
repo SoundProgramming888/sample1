@@ -8,7 +8,7 @@ const (
 	sound_len = 5
 	sample_rate = 44100
 	tau = 2 * math.pi
-	freq = 528
+	freq = 440
 )
 
 fn main(){
